@@ -6,18 +6,27 @@
 * GitHub: Reg-skaja
 ---
 ## About Me
-I have often thought about changing my career. I want to find place when i could get valuable experience and develop all the time. That's why I'm here. My aim is to gain knowledge and skills in the field of front-end development, sufficient for employment in a company.
+I have often thought about changing my career. I want to find place when I could get valuable experience and develop all the time. That's why I'm here. My aim is to gain knowledge and skills in the field of front-end development, sufficient for employment in a company.
 
 ---
 ## Skills
 * Git/GitHub
 * HTML 
+* Teamwork
+* Adaptability
+* Assiduity
+* Sociability
 ---
 ## Code Example 
 ```
-function multiply($a, $b) {
-  $a * $b
-}
+const driverLicense = 'obtain';
+if (driverLicense === 'obtain')  {
+     console.log('you can take a car')
+ } else if (driverLicense === 'not obtain') {
+     console.log('you should go on foot');
+ } else {
+     console.log('get new');
+ }
 ```
 ---
 ## Education
@@ -28,6 +37,7 @@ function multiply($a, $b) {
 ---
 ## Languages
 * Russian: native speaker
+* Belarusian: native speaker
 * Polish: C1
 * English: B1 (in the process of learning)
 * German: A1 (in the process of learning)
